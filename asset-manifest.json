@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Fibromyalgia/static/css/main.1dc0ea93.css",
-    "main.js": "/Fibromyalgia/static/js/main.0612a955.js",
+    "main.css": "/Fibromyalgia/static/css/main.402d23fd.css",
+    "main.js": "/Fibromyalgia/static/js/main.33e15861.js",
     "static/js/453.c2a510f6.chunk.js": "/Fibromyalgia/static/js/453.c2a510f6.chunk.js",
     "index.html": "/Fibromyalgia/index.html",
-    "main.1dc0ea93.css.map": "/Fibromyalgia/static/css/main.1dc0ea93.css.map",
-    "main.0612a955.js.map": "/Fibromyalgia/static/js/main.0612a955.js.map",
+    "main.402d23fd.css.map": "/Fibromyalgia/static/css/main.402d23fd.css.map",
+    "main.33e15861.js.map": "/Fibromyalgia/static/js/main.33e15861.js.map",
     "453.c2a510f6.chunk.js.map": "/Fibromyalgia/static/js/453.c2a510f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dc0ea93.css",
-    "static/js/main.0612a955.js"
+    "static/css/main.402d23fd.css",
+    "static/js/main.33e15861.js"
   ]
 }
