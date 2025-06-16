@@ -67,7 +67,7 @@ const WPIStep = ({ language, testData, setTestData, onNext, isRTL }) => {
       <div className={`flex flex-col lg:flex-row ${isRTL ? 'lg:flex-row-reverse' : ''} gap-10 items-start`}>
         <div className={`w-full lg:w-1/2 flex ${isRTL ? 'justify-end' : 'justify-start'}`}>
           <img
-            src="/Diagnosing.jpg"
+            src="/Fibromyalgia/Diagnosing.jpg"
             alt="WPI Body Map"
             className="rounded-2xl border border-blue-800/20 shadow-xl h-full object-contain max-h-[740px]"
           />

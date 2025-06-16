@@ -113,7 +113,7 @@ const OtherSymptomsStep = ({ language, testData, setTestData, onPrevious, onShow
           {content[language].instruction}
         </p>
         <img
-          src="/Diagnosing.jpg"
+          src="/Fibromyalgia/Diagnosing.jpg"
           alt="WPI Body Map"
           className="mx-auto rounded-2xl border border-blue-800/20 shadow-xl w-full max-w-md"
         />

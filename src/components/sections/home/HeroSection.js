@@ -28,7 +28,7 @@ const HeroSection = ({ language, isRTL, setCurrentPage }) => {
         <div className="md:w-1/2 w-full">
           <div className="relative w-full overflow-hidden rounded-3xl shadow-2xl">
             <img
-              src="/Home.png"
+              src="/Fibromyalgia/Home.png"
               alt="Fibromyalgia Illustration"
               className="w-full h-full object-cover object-center"
             />

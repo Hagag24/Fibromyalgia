@@ -49,7 +49,7 @@ const Footer = ({ language, isRTL, setCurrentPage }) => {
           <div className={`${isRTL ? 'text-right' : 'text-left'}`}>
             <div className="inline-block bg-white border border-purple-300 rounded-full p-[2px] m-3 shadow-md ring-2 ring-purple-500/40 ring-offset-2 animate-pulse">
   <img
-    src={language === 'ar' ? '/FibroAware_logo_Arabic.svg' : '/FibroAware_logo_English.svg'}
+    src={language === 'ar' ? '/Fibromyalgia/FibroAware_logo_Arabic.svg' : '/Fibromyalgia/FibroAware_logo_English.svg'}
     alt="FibroAware Logo"
     className="h-12 hover:scale-105 transition-transform duration-300"
   />

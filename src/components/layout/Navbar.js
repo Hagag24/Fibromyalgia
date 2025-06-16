@@ -22,7 +22,7 @@ const Navbar = ({ language, setLanguage, currentPage, setCurrentPage, isRTL }) =
             onClick={() => setCurrentPage('home')}
           >
             <img
-              src={language === 'ar' ? '/FibroAware_logo_Arabic.svg' : '/FibroAware_logo_English.svg'}
+              src={language === 'ar' ? '/Fibromyalgia/FibroAware_logo_Arabic.svg' : '/Fibromyalgia/FibroAware_logo_English.svg'}
               alt="FibroAware Logo"
               className="h-10 w-auto"
             />

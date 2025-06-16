@@ -152,7 +152,7 @@ const SymptomsPage = ({ language, isRTL }) => {
           </div>
           <div className="relative flex justify-center items-center mb-12">
             <img 
-              src="/Symptoms.jpg" 
+              src="/Fibromyalgia/Symptoms.jpg" 
               alt={language === 'ar' ? 'أسباب الفيبروميالجيا' : 'Causes of Fibromyalgia'} 
               className="rounded-3xl shadow-2xl w-[480px] h-auto object-contain z-10"
             />
